@@ -22,4 +22,4 @@ If you wish to support our work, you can donate via our [Ko-Fi](https://ko-fi.co
 
 ## Changelog
 
-v. 1.0 Released.
+2-6-2022: v. 1.0 released.
