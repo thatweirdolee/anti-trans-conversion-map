@@ -22,4 +22,5 @@ If you wish to support our work, you can donate via our [Ko-Fi](https://ko-fi.co
 
 ## Changelog
 
+**Feb 20 2022:** v. 1.1 - data and color changes. 
 **Feb 6 2022:** v. 1.0 released.
