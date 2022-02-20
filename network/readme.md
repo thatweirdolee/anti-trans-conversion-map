@@ -19,3 +19,8 @@ This tool is developed and maintained by Lee Leveille (lee at healthliberationno
 To submit changes anonymously, email HLN at HLNaction at protonmail dot com.
 
 If you wish to support our work, you can donate via our [Ko-Fi](https://ko-fi.com/healthliberationnow).
+
+## Changelog
+
+**Feb 20 2022:** v. 1.1 - data and color changes. 
+**Feb 6 2022:** v. 1.0 released.

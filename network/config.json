@@ -14,7 +14,7 @@
   },
   "legend": {
     "edgeLabel": "Affiliations with the group, project, or individual. This could be founding, board or advisory membership, sponsorship, collaboration, direct citation, or promotion.",
-    "colorLabel": "White: Group/Project, Lavender: Clinician, Green: Researcher/Academic",
+    "colorLabel": "Orange (Group 1): Group/Project, Lavender (Group 2): Clinician, Green (Group 3): Researcher/Academic",
     "nodeLabel": "Groups/Projects with a notable degree of influence in promoting \"gender exploratory\" therapy and their clinical members or affiliates."
   },
   "features": {
