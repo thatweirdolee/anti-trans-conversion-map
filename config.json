@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.2",
+  "data": "data.json",
+  "logo": {
+    "file": "https://i0.wp.com/healthliberationnow.com/wp-content/uploads/2021/02/hln-logo-square-250x-e1612304835297.png?w=1200&ssl=1",
+    "link": "https://healthliberationnow.com/",
+    "text": "Health Liberation Now"
+  },
+  "text": {
+    "more": "A network map of 15 major groups or projects and their known clinical affiliates that have connections to \"gender exploratory\" therapy theorycrafting, leadership engagement, or promotion.<br><br><b>Purpose:</b> This tool is designed to support journalists, researchers, and trans or gender diverse community organizers in understanding the international spread of \"gender exploratory\" therapy as a form of conversion practice targeting transgender, detransitioned, and gender diverse individuals. Groups were chosen based on their historic and current interest in the clinical adaptation of anti-trans conversion practices, using disinformation surrounding detransition, desistence, and \"rapid onset gender dysphoria\", and their overlapping founders or affiliates of major influence. Presently this map does not cover religious-based anti-trans conversion practices, though overlap is emerging and expected to grow. (see: IFTCC, ACPeds). As this is a rapidly emerging trend, these networks are subject to change over time.<br><br><b>Status of groups listed:</b><br>* Society for Evidence-Based Gender Medicine (SEGM): ACTIVE<br>* Genspect: ACTIVE<br>* Gender Exploratory Therapy Association (GETA): ACTIVE<br>* Gender Dysphoria Alliance (GDA): ACTIVE<br>* Institute for Comprehensive Gender Dysphoria Research (ICGDR): ACTIVE<br>* Thoughtful Therapists: ACTIVE<br>* Rethink Identity Medicine Ethics (ReIME): ACTIVE<br>* International Federation for Therapeutic and Counselling Choice (IFTCC): ACTIVE<br>* American College of Pediatricians (ACPeds): ACTIVE<br>* Gender: A Wider Lens: ACTIVE<br>* Wider Lens Consulting: ACTIVE<br>* Center for Bioethics and Culture Network (CBCN): ACTIVE<br>* Alliance for Therapeutic Choice and Scientific Integrity (ATCSI): ACTIVE<br>* International Association of Therapists for Desisters and Detransitioners (IATDD): inactive<br>* Pediatric and Adolescent Gender Dysphoria Working Group (PAGDWG): inactive<br><br><b>About:</b> This tool is developed and maintained by Lee Leveille of <a href=\"https://healthliberationnow.com/\">Health Liberation Now!</a>, a free, survivor- and trans-run resource analyzing the social and political forces acting in opposition to trans health liberation. If you wish to support our work, you can donate via our <a href=https://ko-fi.com/healthliberationnow>Ko-Fi</a>.",
+    "intro": "A network map of 15 major groups or projects and their known clinical affiliates that have connections to \"gender exploratory\" therapy theorycrafting, leadership engagement, or promotion. Click a node to show the connections between groups, projects, and affiliates.",
+    "title": "Anti-Trans Conversion Therapy Map of Influence"
+  },
+  "legend": {
+    "edgeLabel": "Affiliations with the group, project, or individual. This could be founding, board or advisory membership, sponsorship, collaboration, direct citation, or promotion.",
+    "colorLabel": "Orange (Group 1): Group/Project, Lavender (Group 2): Clinician, Green (Group 3): Researcher/Academic",
+    "nodeLabel": "Groups/Projects with a notable degree of influence in promoting \"gender exploratory\" therapy and their clinical members or affiliates."
+  },
+  "features": {
+    "search": false,
+    "groupSelectorAttribute": "Label",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "arrow",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 5,
+      "maxNodeSize": 35
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
