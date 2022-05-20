@@ -2,6 +2,8 @@
 
 ## Summary
 A network map of 15 major groups or projects and their known clinical affiliates that have connections to "gender exploratory" therapy theorycrafting, leadership engagement, or promotion.  
+
+[Click here to view online](https://thatweirdolee.github.io/anti-trans-conversion-map/network/index.html). 
   
 ## Purpose
 This tool is designed to support journalists, researchers, and trans or gender diverse community organizers in understanding the international spread of "gender exploratory" therapy as a form of conversion practice targeting transgender, detransitioned, and gender diverse individuals. The aim is to identify relationships between emerging leaders in the development of clinical anti-trans conversion therapy, as well as their scope of influence expanding into different regions of the world.
