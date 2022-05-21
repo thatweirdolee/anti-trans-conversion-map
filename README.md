@@ -8,7 +8,7 @@ A network map of 15 major groups or projects and their known clinical affiliates
 ## Purpose
 This tool is designed to support journalists, researchers, and trans or gender diverse community organizers in understanding the international spread of "gender exploratory" therapy as a form of conversion practice targeting transgender, detransitioned, and gender diverse individuals. The aim is to identify relationships between emerging leaders in the development of clinical anti-trans conversion therapy, as well as their scope of influence expanding into different regions of the world.
 
-Presently this map does not cover religious-based anti-trans conversion practices, though overlap is emerging and expected to grow (see: IFTCC, ACPeds). *It is not designed to identify or be used as a directory of individual practicing clinicians.* It is merely meant to highlight the astroturfed and/or highly connected nature of these groups and their growing reach.
+Presently this map does not cover religious-based anti-trans conversion practices, though overlap is emerging and expected to grow (see: IFTCC, ACPeds and ATCSI). *It is not designed to identify or be used as a directory of individual practicing clinicians.* It is merely meant to highlight the astroturfed and/or highly connected nature of these groups and their growing reach.
 
 As the concept of "gender exploratory" therapy is a rapidly emerging trend, these networks are subject to change over time.
   
