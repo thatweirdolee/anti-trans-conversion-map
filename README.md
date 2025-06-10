@@ -16,11 +16,7 @@ As the concept of "gender exploratory" therapy is a rapidly emerging trend, thes
 Network map developed using Gephi and Sigma.js. Data was gathered from public organization records. Groups or projects were chosen based on their historic and current interest in the clinical adaptation of anti-trans conversion practices, using disinformation surrounding detransition, desistence, and "rapid onset gender dysphoria", combined with their overlapping founders or affiliates of major influence.
 
 ## Developer/Maintainer
-This tool is developed and maintained by Lee Leveille (lee at healthliberationnow dot com) of [Health Liberation Now!](https://healthliberationnow.com/), a free, survivor- and trans-run resource analyzing the social and political forces acting in opposition to trans health liberation.
-
-To submit changes anonymously, email HLN at HLNaction at protonmail dot com.
-
-If you wish to support our work, you can donate via our [Ko-Fi](https://ko-fi.com/healthliberationnow).
+This tool was developed by Lee Leveille (lee at healthliberationnow dot com) of [Health Liberation Now!](https://healthliberationnow.com/), a free, survivor- and trans-run resource analyzing the social and political forces acting in opposition to trans health liberation. It is no longer being updated and serves as a historical reference.
 
 ## Changelog
 
